@@ -15,8 +15,9 @@ See [examples folder](https://github.com/Rebzzel/sfs/tree/master/examples/)
 
 ### TODO
 - [ ] Finish sfs::openFile function for other platforms (linux and etc.)
-- [ ] Test the project on other platforms (linux and etc.)
+- [ ] Finish sfs::openDir function for other platforms (linux and etc.)
 - [ ] Finish error system (OpenResult, ReadResult and etc.)
+- [ ] Test the project on other platforms (linux and etc.)
 
 ### Issues
 Please, if you have a issue, open it [on this github page](https://github.com/Rebzzel/sfs/issues)
