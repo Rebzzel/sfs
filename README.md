@@ -49,3 +49,26 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+<br>
+
+---
+
+<br>
+<p align="center">
+  See also:
+  <br>
+  <a href="https://github.com/Rebzzel/kiero">
+    kiero
+  </a>
+  /
+  <a href="https://github.com/Rebzzel/PicPrompt">
+    PicPrompt
+  </a>
+  /
+  <a href="https://github.com/Rebzzel?tab=repositories">
+    ...
+  </a>
+</p>
+
+<br>
